@@ -1,0 +1,17 @@
+#logo {
+  display: block;
+  margin: auto;
+  margin-top: 200px;
+}
+
+#searchtext {
+  display: block;
+  margin: auto;
+  margin-top: auto;
+}
+
+#submitContainer {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
