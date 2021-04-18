@@ -15,3 +15,38 @@
   justify-content: center;
   margin: 20px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+#footer {
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #222;
+}
+
+.footer-links {
+
+}
